@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="100">
+
+    <TextView
+        android:id="@+id/idView"
+        android:layout_width="wrap_content"
+        android:textSize="25sp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/background_white"
+        android:layout_weight="15" />
+
+    <TextView
+        android:id="@+id/usernameView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="50"
+        android:textColor="@color/background_white"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/scoreView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/background_white"
+        android:layout_weight="35"
+        android:textSize="25sp" />
+</LinearLayout>

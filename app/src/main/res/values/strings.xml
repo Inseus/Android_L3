@@ -1,0 +1,29 @@
+<resources>
+    <!--Basic info-->
+    <string name="app_name">Android_development</string>
+    <string name="game">Atspėk skaičių!</string>
+    <!--Buttons-->
+    <string name="about">Apie</string>
+    <string name="speti">Spėti</string>
+    <string name="scores">Garbės lenta</string>
+    <string name="play">Pradėti žaidimą</string>
+    <string name="opts">Nustatymai</string>
+    <string name="save">Išsaugoti</string>
+    <!--About screen-->
+    <string name="madeby">  Darbą pristato:</string>
+    <string name="author">Marius Vintilas IFF 6/8</string>
+    <!--Settings screen-->
+    <string-array name="diff_array">
+        <item>Nesudėtingas</item>
+        <item>Vidutinis</item>
+        <item>Iššūkis</item>
+    </string-array>
+    <string name="name">Vardas</string>
+    <string name="age">Amžius</string>
+    <string name="difficulty">Sudėtingumo lygis</string>
+    <string name="username">Slapyvardis</string>
+    <!--Gameplay screen-->
+    <string name="hint">Pasirinkite skaičių nuo 1 iki X</string>
+    <string name="turns">Likę ėjimai: 42</string>
+
+</resources>
